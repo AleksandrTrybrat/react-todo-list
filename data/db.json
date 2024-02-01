@@ -1,0 +1,16 @@
+{
+  "todos": [
+    {
+      "id": "ea00cf8b-9339-464c-b5a2-02819ac043b4",
+      "title": "Task 1",
+      "isCompleted": false,
+      "creationDate": "2024-01-18T19:24:14.474Z"
+    },
+    {
+      "id": "7a101162-ae19-49e8-9614-191bf63d98d1",
+      "title": "Task 2",
+      "isCompleted": false,
+      "creationDate": "2024-01-18T19:24:27.242Z"
+    }
+  ]
+}
